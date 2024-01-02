@@ -9,7 +9,6 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-
     private Button button1;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
